@@ -1,0 +1,13 @@
+programa {
+  funcao inicio() {
+     inteiro numero=1
+
+    faca{
+      escreva("\n digite o numero")
+      leia(numero)
+
+      escreva("\n dobro: ")
+      escreva(numero*2)
+  } enquanto(numero != 0)
+}
+}

@@ -1,0 +1,3 @@
+nome	idade	cidade
+ui	4	po
+re	6	yu
